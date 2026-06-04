@@ -1,0 +1,16 @@
+{
+    "NUM_TRUCKS": 6,
+    "NUM_TOWERS": 3,
+    "SPEED_TRUCK": 12.0,
+    "SPEED_TOWER": 3,
+    "SIM_STEP": 1,
+    "MOVE_POWER": 4,
+    "IDLE_POWER": 3,
+    "P0": 5,
+    "PMAX": 250,
+    "D0": 80,
+    "PATH_LOSS": 2.5,
+    "BATTERY_VOLTAGE_MAX": 26.5,
+    "BATTERY_AH": 150,
+    "GRAPH_HISTORY": 300
+  }

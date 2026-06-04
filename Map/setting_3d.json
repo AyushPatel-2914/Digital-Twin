@@ -1,0 +1,45 @@
+{
+    "NUM_TRUCKS": 100,
+    "NUM_TOWERS": 33,
+    "SPEED_TRUCK": 12.0,
+    "SPEED_TOWER": 5.0,
+    "MOVE_POWER": 4,
+    "IDLE_POWER": 3,
+    "SIM_STEP": 1,
+    "TIME_MULTIPLIER": 1,
+    "BATTERY_VOLTAGE_MAX": 26.5,
+    "BATTERY_VOLTAGE_MIN": 22.0,
+    "BATTERY_AH": 150,
+    "BATTERY_SCALE_FACTOR": 10,
+
+    "P0": 5,
+    "PMAX": 250,
+    "D0": 80,
+    "PATH_LOSS": 2.5,
+    "COMM_RADIUS_OVERRIDE": null,
+
+    "TOWER_HUB_GOALS": ["main_hub", "e_hub", "sw_hub", "fw_hub", "n_hub", "s_hub"],
+
+    "WINDOW_WIDTH": 1400,
+    "WINDOW_HEIGHT": 950,
+    "GRAPH_HEIGHT": 200,
+
+    "TOWER_COLOR": [220, 30, 30],
+    "TRUCK_COLOR": [0, 60, 180],
+    "ROAD_COLOR": [160, 160, 160],
+    "BACKGROUND_COLOR": [15, 18, 25],
+
+    "ISO_ANGLE_DEG": 30,
+    "ISO_SCALE_X": 1.0,
+    "ISO_SCALE_Y": 0.55,
+    "Z_SCALE": 0.18,
+    "MAP_SCALE": 0.75,
+    "MAP_OFFSET_X": 700,
+    "MAP_OFFSET_Y": 420,
+
+    "SHOW_COMM_LINKS": true,
+    "SHOW_BATTERY_GRAPH": true,
+    "SHOW_HUD": true,
+
+    "CSV_FLUSH_EVERY_N_STEPS": 100
+}
